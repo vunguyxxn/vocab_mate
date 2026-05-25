@@ -1,0 +1,43 @@
+name: vocab_mate
+description: VocabMate - Ứng dụng học từ vựng tiếng Anh
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Supabase
+  supabase_flutter: ^2.8.0
+
+  # Firebase
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.0
+  firebase_messaging: ^15.2.10
+
+  # Notification
+  flutter_local_notifications: ^17.2.2
+
+  # TTS
+  flutter_tts: ^4.2.0
+
+  # UI
+  shimmer: ^3.0.0
+  lottie: ^3.1.2
+
+  # Network
+  http: ^1.2.2
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997641769005",
+    "project_id": "vocab-mate-2026",
+    "storage_bucket": "vocab-mate-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997641769005:android:0cf38b79e83eb44f5c28a4",
+        "android_client_info": {
+          "package_name": "com.vocabmate.vocab_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi31Vb9j3wxaYXEt7w10yd_mPSBq4dRr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
